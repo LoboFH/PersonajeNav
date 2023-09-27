@@ -1,6 +1,6 @@
 # PersonajeNav
 
-#Integrantes
+Integrantes:
 Salas González Braulio Francisco
 Soto Ledezma Jesús
 
