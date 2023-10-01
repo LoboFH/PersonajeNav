@@ -1,8 +1,6 @@
 # PersonajeNav
 
-|Integrantes>|
-|Salas González Braulio Francisco|
-|Soto Ledezma Jesús|
+Integrantes: Salas González Braulio Francisco, Soto Ledezma Jesús
 
 ## Nombre del personaje
 -  Camello (de los Reyes Magos)
