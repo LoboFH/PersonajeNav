@@ -5,7 +5,7 @@ Integrantes: Salas González Braulio Francisco, Soto Ledezma Jesús
 ## Nombre del personaje
 -  Camello (de los Reyes Magos)
 
-##Materiales a utilizar
+## Materiales a utilizar
 |Nombre del componenete|Descripción|Contidad|Precio|
 |-|-|-|-|
 |ESP32|Microcontrolador con 30 pines con municacion WiFi y Bluetooth|1|$140.00|
