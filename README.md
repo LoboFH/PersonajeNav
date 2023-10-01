@@ -1,8 +1,8 @@
 # PersonajeNav
 
-Integrantes:
-Salas González Braulio Francisco
-Soto Ledezma Jesús
+|Integrantes:|
+|Salas González Braulio Francisco|
+|Soto Ledezma Jesús|
 
 # Nombre del personaje
 -  Camello (de los Reyes Magos)
@@ -24,7 +24,7 @@ Soto Ledezma Jesús
 ## Prototipo de dibujo
 - Fotografia del dibujo a mano alzada de tu personaje
 ## Comunicación
-- Programariamos una aplicación la cual permita elegir sonidos que hará el camello al igual que su movimiento.
+- Programariamos una aplicación la cual permita elegir sonidos que hará el camello, al igual que podamos elegir si este realiza su movimiento.
 ## Arquitectura
 - Diagrama que contenga los sensores, los actores, el microcontrolador, el servidor y la base de datos.
 ## Base de datos
