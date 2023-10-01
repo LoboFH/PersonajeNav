@@ -1,4 +1,4 @@
-![image](https://github.com/LoboFH/PersonajeNav/assets/135056226/fe6cce1e-0c88-4c32-be4a-e167bd972ea3)# PersonajeNav
+# PersonajeNav
 
 Integrantes:
 Salas González Braulio Francisco
@@ -20,7 +20,6 @@ Soto Ledezma Jesús
 |Thonny|4.2.1|Software Libre|
 |SSD1602|1.8.1|Software libre|
 
-![image](https://github.com/LoboFH/PersonajeNav/assets/135056226/bfd06bcc-fb87-4e50-a96c-d1f0ad568261)
 
 ## Prototipo de dibujo
 - Fotografia del dibujo a mano alzada de tu personaje
