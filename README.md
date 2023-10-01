@@ -10,7 +10,6 @@ Integrantes: Salas González Braulio Francisco, Soto Ledezma Jesús
 |-|-|-|-|
 |ESP32|Microcontrolador con 30 pines con municacion WiFi y Bluetooth|1|$140.00|
 |Cables Dupont|Cables para conexión de prototipos de pruebas|50|$60.00|
-|Materiales|Otros, plastico, etc|+10|Aprox: $200.00|
 
 ## Software a utilizar
 |Nombre|Versión|Tipo Software|
