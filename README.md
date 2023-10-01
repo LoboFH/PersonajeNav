@@ -19,7 +19,8 @@ Integrantes: Salas González Braulio Francisco, Soto Ledezma Jesús
 
 
 ## Prototipo de dibujo
-- Fotografia del dibujo a mano alzada de tu personaje
+![image](https://github.com/LoboFH/PersonajeNav/assets/135056226/0b22c466-59c6-458d-9d82-c32a0d96de0b)
+
 ## Comunicación
 - Programariamos una aplicación la cual permita elegir sonidos que hará el camello, al igual que podamos elegir si este realiza su movimiento.
 ## Arquitectura
