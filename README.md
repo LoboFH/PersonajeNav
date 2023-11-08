@@ -16,7 +16,7 @@ Integrantes: Salas González Braulio Francisco, Soto Ledezma Jesús
 
 ## Software a utilizar
 |Nombre|Versión|Tipo Software|
-||-|-|
+|-|-|-|
 |Thonny|4.2.1|Software Libre|
 |SSD1602|1.8.1|Software libre|
 
