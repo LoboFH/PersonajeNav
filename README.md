@@ -19,18 +19,17 @@ Integrantes: Salas González Braulio Francisco, Soto Ledezma Jesús
 |-|-|-|
 |Thonny|4.2.1|Software Libre|
 |SSD1602|1.8.1|Software libre|
+|Arduino IDE |1.8.19 |Software libre|
 
 
 ## Prototipo de dibujo
 ![image](https://github.com/LoboFH/PersonajeNav/assets/135056226/bfc9260a-cbf1-4850-bfbf-53c066ea5bda)
 
-## Circuito Wokwi
+## Comunicación
+- Vamos a implementar la mayoría de los componentes adentro del camello, y va a estar programado para que repita sus acciones cada 10 segundos.
+- 
+## Arquitectura
 ![image](https://github.com/LoboFH/PersonajeNav/assets/135056226/c66e3528-749c-4680-9be0-9e1782d5e3df)
 
-
-## Comunicación
-- Programariamos una aplicación la cual permita elegir sonidos que hará el camello, al igual que podamos elegir si este realiza su movimiento.
-## Arquitectura
-- Diagrama que contenga los sensores, los actores, el microcontrolador, el servidor y la base de datos.
 ## Base de datos
 - Imagen tabla o tablas que usuarias ( EJ. sensores, actuadores, microcontrolador)
