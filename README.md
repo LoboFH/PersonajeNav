@@ -27,7 +27,7 @@ Integrantes: Salas González Braulio Francisco, Soto Ledezma Jesús
 
 ## Comunicación
 - Vamos a implementar la mayoría de los componentes adentro del camello, y va a estar programado para que repita sus acciones cada 10 segundos.
-- 
+
 ## Arquitectura
 ![image](https://github.com/LoboFH/PersonajeNav/assets/135056226/c66e3528-749c-4680-9be0-9e1782d5e3df)
 
