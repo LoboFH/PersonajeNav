@@ -12,7 +12,11 @@ Integrantes: Salas González Braulio Francisco, Soto Ledezma Jesús
 |Cables Dupont|Cables para conexión de prototipos de pruebas|50|$60.00|
 |Buzzer | Buzzer |1|$60.00|
 |Servo | Servo motor |1|$80.00|
-|Otros |Materiales para el camello |-|$200.00|
+|Bolas de unicel | Bolas de unicel de distintos tamaños | 7 | 100 |
+|Periodico | Para darle forma al camello | Indefinido | 20 |
+|Pegamento | Pegamento liquido para juntar las piezas | 1 | 50 |
+|Pintura | Pintura cafe y amarilla | 2 | 80 |
+
 
 ## Software a utilizar
 |Nombre|Versión|Tipo Software|
@@ -29,7 +33,8 @@ Integrantes: Salas González Braulio Francisco, Soto Ledezma Jesús
 - Vamos a implementar la mayoría de los componentes adentro del camello, y va a estar programado para que repita sus acciones cada 10 segundos.
 
 ## Arquitectura
-![image](https://github.com/LoboFH/PersonajeNav/assets/135056226/c66e3528-749c-4680-9be0-9e1782d5e3df)
+![image](https://github.com/LoboFH/PersonajeNav/assets/135056226/bf232940-b96a-45b9-9a53-58cafcb8c6a9)
+
 
 ## Base de datos
 - Imagen tabla o tablas que usuarias ( EJ. sensores, actuadores, microcontrolador)
