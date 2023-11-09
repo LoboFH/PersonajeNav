@@ -15,7 +15,7 @@ Integrantes: Salas González Braulio Francisco, Soto Ledezma Jesús
 |Bolas de unicel | Bolas de unicel de distintos tamaños | 7 | 100 |
 |Periodico | Para darle forma al camello | Indefinido | 20 |
 |Pegamento | Pegamento liquido para juntar las piezas | 1 | 50 |
-|Pintura | Pintura cafe y amarilla | 2 | 80 |
+|Pintura | Pintura cafe, verde y amarilla | 2 | 80 |
 
 
 ## Software a utilizar
@@ -27,13 +27,14 @@ Integrantes: Salas González Braulio Francisco, Soto Ledezma Jesús
 
 
 ## Prototipo de dibujo
-![image](https://github.com/LoboFH/PersonajeNav/assets/135056226/bfc9260a-cbf1-4850-bfbf-53c066ea5bda)
+![image](https://github.com/LoboFH/PersonajeNav/assets/135056226/7637a4ef-81e6-4499-90dd-a5a55b83a470)
+
 
 ## Comunicación
 - Vamos a implementar la mayoría de los componentes adentro del camello, y va a estar programado para que repita sus acciones cada 10 segundos.
 
 ## Arquitectura
-Vamos a colocar un servo para el movimiento de la cabeza del camello y un buzzer para simular cuando vaya a comer pasto, y otro servo para el movimiento de la boca, un led que se prenda para iluminar el pasto
+Vamos a colocar un servo para el movimiento de la cabeza del camello y un buzzer para simular cuando vaya a tomar agua, y otro servo para el movimiento de la boca, un led que se prenda para iluminar una vela
 
 ![image](https://github.com/LoboFH/PersonajeNav/assets/135056226/bf232940-b96a-45b9-9a53-58cafcb8c6a9)
 
