@@ -33,6 +33,8 @@ Integrantes: Salas González Braulio Francisco, Soto Ledezma Jesús
 - Vamos a implementar la mayoría de los componentes adentro del camello, y va a estar programado para que repita sus acciones cada 10 segundos.
 
 ## Arquitectura
+Vamos a colocar un servo para el movimiento de la cabeza del camello y un buzzer para simular cuando vaya a comer pasto, y otro servo para el movimiento de la boca, un led que se prenda para iluminar el pasto
+
 ![image](https://github.com/LoboFH/PersonajeNav/assets/135056226/bf232940-b96a-45b9-9a53-58cafcb8c6a9)
 
 
