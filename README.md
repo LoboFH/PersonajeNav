@@ -11,7 +11,7 @@ Integrantes: Salas González Braulio Francisco, Soto Ledezma Jesús
 |ESP32|Microcontrolador con 30 pines con municacion WiFi y Bluetooth|1|$140.00|
 |Cables Dupont|Cables para conexión de prototipos de pruebas|50|$60.00|
 |Buzzer | Buzzer |1|$60.00|
-|Servo | Servo motor |1|$80.00|
+|Servo | Servo motor |2|$80.00|
 |Bolas de unicel | Bolas de unicel de distintos tamaños | 7 | 100 |
 |Periodico | Para darle forma al camello | Indefinido | 20 |
 |Pegamento | Pegamento liquido para juntar las piezas | 1 | 50 |
@@ -24,6 +24,7 @@ Integrantes: Salas González Braulio Francisco, Soto Ledezma Jesús
 |Thonny|4.2.1|Software Libre|
 |SSD1602|1.8.1|Software libre|
 |Arduino IDE |1.8.19 |Software libre|
+|Node-RED |3.0 |Software libre|
 
 
 ## Prototipo de dibujo
